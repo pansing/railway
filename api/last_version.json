@@ -1,8 +1,8 @@
 {
 	"versionCode":2,
 	"versionName":"1.0.1",
-	"updateDate":"2016-10-08",
-	"updateLog":"新增牛X功能",
-	"url":"https://pansing.github.io/railway/api/release/tr.apk",
-	"md5":"E287E785D0E3E043FB0CFBFE69309D8E"
+	"updateDate":"2016-10-27",
+	"updateLog":"1.修复订单付款后重复提示问题  2.修复Android 6.0每次打开都提示申请权限问题",
+	"url":"https://pansing.github.io/railway/api/release/Railway_v1.0.1_signed.apk",
+	"md5":"CBFE00846E02308386F9C3E93AFE5D18"
 }
