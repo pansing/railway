@@ -1,8 +1,8 @@
 {
 	"versionCode":1,
 	"versionName":"1.0.1",
-	"updateDate":"2016-10-27",
-	"updateLog":"1.修复订单付款后重复提示问题\n2.修复Android 6.0每次打开都提示申请权限问题",
+	"updateDate":"2016-11-06",
+	"updateLog":"v 1.0.1 (2016-11-06)\n\n 1.修复订单付款后重复提示问题\n\n2.修复Android 6.0每次打开都提示申请权限问题\n\n3.修复查询订单有时候会崩溃问题",
 	"url":"https://pansing.github.io/railway/api/release/Railway_v1.0.1_signed.apk",
-	"md5":"CBFE00846E02308386F9C3E93AFE5D18"
+	"md5":"8A94195AD8413EDCCE031A0571D447AB"
 }
