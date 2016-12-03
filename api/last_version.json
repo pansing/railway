@@ -1,8 +1,8 @@
 {
 	"versionCode":2,
 	"versionName":"1.0.2",
-	"updateDate":"2016-12-01",
-	"updateLog":"v 1.0.2 (2016-11-06)\n\n1.紧急修复因余票修改导致的程序崩溃\n\n2.新增预售期提示等\n\n 由于12306改版可能会导致程序不稳定，正在紧急处理中",
+	"updateDate":"2016-12-03",
+	"updateLog":"v 1.0.2 (2016-12-03)\n\n1.紧急修复因余票修改导致的程序崩溃\n\n2.新增预售期提示等\n\n由于12306改版可能会导致程序不稳定，正在紧急处理中",
 	"url":"http://littleapk.oss-cn-shanghai.aliyuncs.com/release/Railway_v1.0.2_signed.apk",
-	"md5":"20BEC5C3C869309C1F48615D1413DAA5"
+	"md5":"5BFFF489B008C101754C2C28285F1AC4"
 }
